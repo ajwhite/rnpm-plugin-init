@@ -1,0 +1,24 @@
+{
+  "name": "rnpm-plugin-init",
+  "version": "0.0.1",
+  "description": "An rnpm plugin to initialize a new module or component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwhite/rnpm-plugin-init.git"
+  },
+  "keywords": [
+    "rnpm",
+    "rnpm-plugin",
+    "react-native"
+  ],
+  "author": "Atticus White <contact@atticuswhite.com> (http://atticuswhite.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajwhite/rnpm-plugin-init/issues"
+  },
+  "homepage": "https://github.com/ajwhite/rnpm-plugin-init#readme"
+}
